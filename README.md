@@ -8,4 +8,4 @@
 * Telegram: [stivek11](https://t.me/stivek11)
 * VK: [vk.com](https://vk.com/id527618351)
             
-## 📜 My experience : [CV]()
+## 📜 My experience : [CV](https://github.com/stive-shipilov/CV/blob/main/CV_ShipilovS.pdf)
